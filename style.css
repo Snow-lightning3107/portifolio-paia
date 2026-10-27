@@ -126,3 +126,14 @@ img{
 a{
     text-decoration: none;
 }
+
+#texto{
+     background-color: var(--corPrincipal);
+    border: solid 1px;
+    border-radius: 16px;
+    padding: -10px -10px;
+    color: var(--corSecundaria);
+    font-size: 24px;
+    font-family: var(--fontePrincipal);
+    font-weight: 600;
+}
